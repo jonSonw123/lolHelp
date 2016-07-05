@@ -16,8 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< HEAD
     // Do any additional setup after loading the view, typically from a nib.
     //据恐惧快乐的饭局开发局咖啡店句 i 哦额比 vi 家
+=======
+    self.view.backgroundColor = [UIColor greenColor];
+>>>>>>> pr/1
 }
 
 - (void)didReceiveMemoryWarning {
